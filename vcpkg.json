@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "chronoengine",
+    "glfw3",
+    "glad",
+    "imgui",
+    "spdlog",
+    "opengl"
+  ]
+}
